@@ -1,0 +1,17 @@
+{
+  "name": "@liushengfeng/use-local-files",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "exports": "./index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
